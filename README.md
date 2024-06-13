@@ -21,3 +21,25 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
 - Data geospasial diakses melalui [InaGeoportal](https://www.inageoportal.id/), menyediakan informasi geospasial Indonesia.
 - Data titik lokasi diperoleh dari google maps (https://www.google.com/maps), untuk informasi longitude dan latitude.
 
+## Tangkapan Layar Komponen Penting Produk
+
+1. **Antarmuka Utama:**
+   ![Landing Page](website/screenshoot/landingpage.png)
+
+2. **Halaman Wisata:**
+   ![Destination](website/screenshoot/Destination_Page.png)
+
+3. **Halaman Deskripsi Wisata:**
+   ![Deskripsi Wisata](website/screenshoot/Deskripsi_Wisata.png)
+
+4. **Halaman Kuliner:**
+   ![Cullinary](website/screenshoot/Culiner_Page.png)
+
+5. **Halaman Deskripsi Kuliner:**
+   ![Deskripsi Kuliner](website/screenshoot/Deskripsi_Kuliner.png)
+
+6. **Halaman Hotel:**
+   ![Hotel](website/screenshoot/Hotel_Page.png)
+
+7. **Halaman Deskripsi Hotel:**
+   ![Deskripsi Hotel](website/screenshoot/Deskripsi_Hotel.png)
