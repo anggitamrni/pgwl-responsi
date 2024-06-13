@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,52 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# pgweb-responsi
+
+# Explore Denpasar Tourism
+
+## Deskripsi Produk
+
+Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata di Kota Denpasar Bali. Website ini memberikan informasi detail tentang lokasi-lokasi tersebut, termasuk deskripsi lokasi wisata. Denpasar Tourism ini dibuat untuk memenuhi tugas responsi Praktikum Pemrograman Web Lanjut.
+
+## Komponen Pembangun Produk
+
+- **HTML:** Digunakan untuk struktur dasar halaman web.
+- **CSS:** Menangani tata letak dan desain halaman.
+- **Bootstrap:** Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
+- **Leaflet.js:** Library JavaScript untuk menangani peta interaktif.
+- **Geoserver:** Sebagai server GIS untuk menyediakan dan mengelola data geospasial.
+- **QGIS:** Sebagai software untuk mengolah data spasial dan diintegrasikan ke peta laravel.
+- **Laravel:** Sebagai framework PHP yang kuat dan fleksibel, menyediakan banyak fitur dan kemudahan untuk membangun aplikasi web, termasuk aplikasi Geographic Information System (GIS).
+- **DBeaver:** Sebagai Database Penyimpanan Data Spasial.
+  
+## Sumber Data
+
+- Data informasi wisata (https://www.pariwisata.denpasarkota.go.id/).
+- Data geospasial diakses melalui [InaGeoportal](https://www.inageoportal.id/), menyediakan informasi geospasial Indonesia.
+- Data titik lokasi diperoleh dari google maps (https://www.google.com/maps), untuk informasi longitude dan latitude.
+
+## Tangkapan Layar Komponen Penting Produk
+
+1. **Antarmuka Utama:**
+   ![Landing Page](website/screenshoot/landingpage.png)
+
+2. **Halaman Wisata:**
+   ![Destination](website/screenshoot/Destination_Page.png)
+
+3. **Halaman Deskripsi Wisata:**
+   ![Deskripsi Wisata](website/screenshoot/Deskripsi_Wisata.png)
+
+4. **Halaman Kuliner:**
+   ![Cullinary](website/screenshoot/Culiner_Page.png)
+
+5. **Halaman Deskripsi Kuliner:**
+   ![Deskripsi Kuliner](website/screenshoot/Deskripsi_Kuliner.png)
+
+6. **Halaman Hotel:**
+   ![Hotel](website/screenshoot/Hotel_Page.png)
+
+7. **Halaman Deskripsi Hotel:**
+   ![Deskripsi Hotel](website/screenshoot/Deskripsi_Hotel.png)
+ 358be0e97fa65aa65e6440a115856168221f7188
