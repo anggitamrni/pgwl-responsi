@@ -97,7 +97,7 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
    ![Landing Page](website/screenshoot/landingpage.png)
 
 2. **Halaman Wisata:**
-   ![Destination](website/screenshoot/Destination_Page.png)
+   ![Destination](website/screenshoot/destinationmap.png)
 
 3. **Halaman Deskripsi Wisata:**
    ![Deskripsi Wisata](website/screenshoot/Deskripsi_Wisata.png)
