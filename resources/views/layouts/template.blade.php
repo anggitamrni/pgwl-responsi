@@ -29,15 +29,15 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" >
+        <div class="container-fluid"  >
             <a class="navbar-brand" href="#"> <i class="fa-solid fa-suitcase-rolling"></i> {{ $title }}</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
+                <ul class="navbar-nav ms-auto" >
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="{{ route('index') }}"><i
                                 class="fa-solid fa-map-location-dot"></i></i> Destination Map</a>
@@ -53,7 +53,7 @@
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="{{ route('table-point') }}">Tabel Point</a></li>
                             {{-- <li><hr class="dropdown-divider"></li> --}}
-                            <li><a class="dropdown-item" href="{{ route('table-polygon') }}">Tabel Polygon</a></li>
+                            {{-- <li><a class="dropdown-item" href="{{ route('table-polygon') }}">Tabel Polygon</a></li> --}}
                         </ul>
                     </li>
 

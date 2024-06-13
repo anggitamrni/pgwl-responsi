@@ -29,4 +29,11 @@ class MapController extends Controller
 
         return view('table',$data);
     }
+
+    public function getGeoJSONDenpasar()
+{
+    $geojsonPath = public_path('geojson/storage/denpasar.geojson'); // Ganti dengan path yang sesuai dengan file GeoJSON denpasar
+    $geojson = file_get_contents($geojsonPath);
+    return response()->json(json_decode($geojson));
+}
 }

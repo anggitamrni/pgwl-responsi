@@ -23,6 +23,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('map', [MapController::class, 'index'])->name('index');
 Route::get('/', LandingController::class,);
 Route::get('/table', [MapController::class, 'table'])->name('table');
+Route::get('/api/geojson-denpasar', [MapController::class, 'getGeoJSONDenpasar'])->name('api.geojson.denpasar');
 
 // Create Point 
 Route::post('/store-point', [PointController::class, 'store'])->name('store-point');

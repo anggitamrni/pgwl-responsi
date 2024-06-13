@@ -3,7 +3,7 @@
 @section('styles')
 <link rel="stylesheet" href="{{url('frontend/css/dashboard.css') }}">
   <!--====== Favicon Icon ======-->
-  <link rel="shortcut icon" href="{{url('frontend/images/coconut-tree.svg')}} type="image/svg" />
+  <link rel="shortcut icon" href="{{url('public/frontend/images/coconut-tree.svg')}} type="image/svg" />
   
   <style>
     body {
