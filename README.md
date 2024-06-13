@@ -13,8 +13,10 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
 - **Bootstrap:** Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
 - **Leaflet.js:** Library JavaScript untuk menangani peta interaktif.
 - **Geoserver:** Sebagai server GIS untuk menyediakan dan mengelola data geospasial.
+- **QGIS:** Sebagai software untuk mengolah data spasial dan diintegrasikan ke peta laravel.
 - **Laravel:** Sebagai framework PHP yang kuat dan fleksibel, menyediakan banyak fitur dan kemudahan untuk membangun aplikasi web, termasuk aplikasi Geographic Information System (GIS).
-
+- **DBeaver:** Sebagai Database Penyimpanan Data Spasial.
+  
 ## Sumber Data
 
 - Data informasi wisata (https://www.pariwisata.denpasarkota.go.id/).
