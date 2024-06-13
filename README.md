@@ -99,18 +99,14 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
 2. **Halaman Wisata:**
    ![Destination](website/screenshoot/destinationmap.png)
 
-3. **Halaman Deskripsi Wisata:**
-   ![Deskripsi Wisata](website/screenshoot/Deskripsi_Wisata.png)
+3. **Halaman Login:**
+   ![Login](website/screenshoot/loginpage.png)
 
-4. **Halaman Kuliner:**
-   ![Cullinary](website/screenshoot/Culiner_Page.png)
+4. **Halaman Table Point:**
+   ![Table Point](website/screenshoot/tablepoint.png)
 
-5. **Halaman Deskripsi Kuliner:**
-   ![Deskripsi Kuliner](website/screenshoot/Deskripsi_Kuliner.png)
+5. **Halaman Edit Point:**
+   ![Edit Point](website/screenshoot/editpoint.png)
 
-6. **Halaman Hotel:**
-   ![Hotel](website/screenshoot/Hotel_Page.png)
-
-7. **Halaman Deskripsi Hotel:**
-   ![Deskripsi Hotel](website/screenshoot/Deskripsi_Hotel.png)
- 358be0e97fa65aa65e6440a115856168221f7188
+6. **Halaman Dashboard:**
+   ![Dashboard](website/screenshoot/dashboard.png)
