@@ -76,14 +76,14 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
 
 ## Komponen Pembangun Produk
 
-- **HTML:** Digunakan untuk struktur dasar halaman web.
-- **CSS:** Menangani tata letak dan desain halaman.
-- **Bootstrap:** Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
-- **Leaflet.js:** Library JavaScript untuk menangani peta interaktif.
-- **Geoserver:** Sebagai server GIS untuk menyediakan dan mengelola data geospasial.
-- **QGIS:** Sebagai software untuk mengolah data spasial dan diintegrasikan ke peta laravel.
-- **Laravel:** Sebagai framework PHP yang kuat dan fleksibel, menyediakan banyak fitur dan kemudahan untuk membangun aplikasi web, termasuk aplikasi Geographic Information System (GIS).
-- **DBeaver:** Sebagai Database Penyimpanan Data Spasial.
+- **_HTML_:** Digunakan untuk struktur dasar halaman web.
+- **_CSS_:** Menangani tata letak dan desain halaman.
+- **_Bootstrap_:** Framework CSS untuk mempercepat pengembangan antarmuka pengguna yang responsif.
+- **_Leaflet.js_:** Library JavaScript untuk menangani peta interaktif.
+- **_Geoserver_:** Sebagai server GIS untuk menyediakan dan mengelola data geospasial.
+- **_QGIS_:** Sebagai software untuk mengolah data spasial dan diintegrasikan ke peta laravel.
+- **_Laravel_:** Sebagai framework PHP yang kuat dan fleksibel, menyediakan banyak fitur dan kemudahan untuk membangun aplikasi web, termasuk aplikasi Geographic Information System (GIS).
+- **_DBeaver_:** Sebagai Database Penyimpanan Data Spasial.
   
 ## Sumber Data
 
