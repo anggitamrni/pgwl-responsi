@@ -111,5 +111,11 @@ Denpasar Tourism adalah laman yang menampilkan informasi seputar tempat wisata d
    ![image](https://github.com/anggitamrni/pgwl-responsi/assets/142865997/0d42d160-7f1f-42fc-994c-6649695c3ece)
 
 7. **Halaman Dashboard:**
-   ![image](https://github.com/anggitamrni/pgwl-responsi/assets/142865997/85554223-19ab-4610-a848-c3511e094929)
+   ![image](https://github.com/anggitamrni/pgwl-responsi/assets/142865997/1c867faf-6459-4ced-a691-1411cea354cb)
+   
+9. **Halaman Info:**
+   ![image](https://github.com/anggitamrni/pgwl-responsi/assets/142865997/092ce080-ec2f-4556-8ad7-ad2a83ca09bb)
+
+   
+
 
